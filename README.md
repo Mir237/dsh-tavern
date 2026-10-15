@@ -194,6 +194,10 @@ curl -fsSL https://cdn.jsdelivr.net/gh/flizzywine/dsh-tavern@main/install.sh | D
 
 感谢 [@huajiao1998（meng）](https://github.com/huajiao1998) 持续提交详细的问题报告、复现步骤、性能分析和修复建议，并协助验证改进，帮助完善长会话、后台任务和界面稳定性。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=flizzywine/dsh-tavern&type=date&legend=top-left)](https://www.star-history.com/?repos=flizzywine%2Fdsh-tavern&type=date&legend=top-left)
+
 ## 用户怎么说
 
 [![用户反馈：同样预设下比酒馆更有活人感，速度也更快](docs/images/readme/testimonials/more-alive-and-faster.jpg)](docs/images/readme/testimonials/more-alive-and-faster.jpg)
